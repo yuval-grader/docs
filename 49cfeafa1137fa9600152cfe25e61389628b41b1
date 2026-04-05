@@ -1,0 +1,23 @@
+docs.json
+  c4712fd58470b294 22-23,26,29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "49cfeafa1137fa9600152cfe25e61389628b41b1",
+  "prompts": {
+    "c4712fd58470b294": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f21d923e-78a4-4442-aae9-13faad8a044d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "yuval-grader",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 97,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
